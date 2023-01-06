@@ -13,7 +13,7 @@ Sometimes we can eaisly end up repeating one password several times exposing our
 
 ## Installation
 
-Just click the following link to view the password generator website https://cheptegei-create.github.io/threeChallenge/
+Just click the following link to view the password generator website https://cheptegei-create.github.io/password-generator/
 
 ## Usage
 
